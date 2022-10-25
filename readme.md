@@ -57,7 +57,7 @@ The return type looks like the following:
         },
         "scores": {
             "readingTimeInMinutes": 2.79,
-            "wienerSachtextIndex": 1.2 // see https:/
+            "wienerSachtextIndex": 1.2 // see https://de.wikipedia.org/wiki/Lesbarkeitsindex
         }
     },
     "heading": {/*... same result keys as for body ... */},
